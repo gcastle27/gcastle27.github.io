@@ -1,11 +1,11 @@
 # Site settings
 author: George Hardcastle
-title: 
+title: My adventure in learning to code.
 header-img: img/home-bg.png
 email: th3g0r327.gh@gmail.com
 copyright_name: George Hardcastle
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learning to code.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: th3badw0lf27
 github_username:  gcastle27
